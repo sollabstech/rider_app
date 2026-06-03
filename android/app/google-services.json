@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730643125500",
+    "firebase_url": "https://event-app-e4b10-default-rtdb.firebaseio.com",
+    "project_id": "event-app-e4b10",
+    "storage_bucket": "event-app-e4b10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730643125500:android:457ad96c83535e18afb379",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730643125500-aghtd16chee0nqrnm438hs7pgn18n61b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCAnnXfOf6SshMAKiG4Bum5Yr-v4AWq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730643125500-aghtd16chee0nqrnm438hs7pgn18n61b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
